@@ -1,6 +1,11 @@
 # 🌟 Welcome to My Data Science Portfolio  
 
-Hi there! I'm **Sandaruwan**, a **Data Scientist specializing in Financial Mathematics and Industrial Statistics**. I love turning complex data into actionable insights and building innovative solutions for the financial world.  
+Hi there! I'm **Sandaruwan**, a **Data Scientist specializing in Financial Mathematics and Industrial Statistics**.  
+I enjoy uncovering hidden insights in data and crafting intelligent solutions for the financial industry.  
+
+<div align="center">
+    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Welcome Animation" width="700"/>
+</div>
 
 ---
 
@@ -9,6 +14,10 @@ Hi there! I'm **Sandaruwan**, a **Data Scientist specializing in Financial Mathe
 - 🌐 **Focus**: Time series analysis, financial forecasting, and data-driven problem-solving.  
 - 🤖 **Research**: Developing **AI-powered financial systems** using CNN-LSTM models.  
 - 🏆 **Leadership**: Vice President of Marketing for my university society, driving impactful projects and campaigns.  
+
+<div align="center">
+    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Data Science Animation" width="500"/>
+</div>
 
 ---
 
@@ -23,11 +32,9 @@ Hi there! I'm **Sandaruwan**, a **Data Scientist specializing in Financial Mathe
 - **Libraries & Tools**: pandas, NumPy, SciPy, TensorFlow, Matplotlib, Seaborn  
 - **Platforms**: DataCamp, Jupyter, Excel  
 
-### 🎯 **Core Competencies**  
-- **Financial Time Series Analysis**: ARIMA, forecasting trends 📊  
-- **Machine Learning & Deep Learning**: Predictive modeling, CNN-LSTM 🤖  
-- **Data Visualization**: Turning numbers into stories 🌈  
-- **Big Data Processing**: Basics of Hadoop 🚀  
+<div align="center">
+    <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" alt="Skills Animation" width="600"/>
+</div>
 
 ---
 
@@ -37,10 +44,18 @@ Hi there! I'm **Sandaruwan**, a **Data Scientist specializing in Financial Mathe
 - **Tools**: Python, Yahoo Finance API, SciPy.  
 - **Highlight**: Daily closing price forecasting for strategic financial planning.  
 
+<div align="center">
+    <img src="https://media.giphy.com/media/j1J09gkF3L8Zy/giphy.gif" alt="Finance Animation" width="600"/>
+</div>
+
 ### 🔍 **Financial Pattern Recognition System**  
 - **Goal**: Identify trends and predict market movements using CNN-LSTM.  
 - **Tech Stack**: TensorFlow, Python.  
 - **Highlight**: Integrated high, low, open, and close prices for robust predictions.  
+
+<div align="center">
+    <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Pattern Recognition Animation" width="500"/>
+</div>
 
 ### 🤖 **Forex Trading Software**  
 - **Modules**:  
@@ -49,6 +64,10 @@ Hi there! I'm **Sandaruwan**, a **Data Scientist specializing in Financial Mathe
   - 📈 **Action Predictor**: Intelligent buy/sell recommendations.  
   - 🏦 **Trader Module**: Simulations and real-world trades.  
 
+<div align="center">
+    <img src="https://media.giphy.com/media/l41YlMxCMpZS4kfdm/giphy.gif" alt="Trading Animation" width="600"/>
+</div>
+
 ---
 
 ## 🏅 **Certifications**
@@ -56,18 +75,31 @@ Hi there! I'm **Sandaruwan**, a **Data Scientist specializing in Financial Mathe
 - ✅ **Intermediate Python** – DataCamp  
 - ✅ **Data Manipulation with pandas** – DataCamp  
 
+<div align="center">
+    <img src="https://media.giphy.com/media/1zlbLpeFIOzKKmNaP2/giphy.gif" alt="Certificate Animation" width="400"/>
+</div>
+
 ---
 
 ## 🌟 **Featured Highlights**
 - **LinkedIn Post**: Sharing SciPy-based statistical insights.  
 - **Talks & Events**: Conducted sessions like *Empowering the Future with Actuarial Science*.  
 
+<div align="center">
+    <img src="https://media.giphy.com/media/3oEjHGrVGrqgFFknfO/giphy.gif" alt="Highlight Animation" width="500"/>
+</div>
+
 ---
 
 ## 📬 **Let's Connect!**
 - 📧 **Email**: sriyantha1234567890@gmail.com
-- 🔗 **LinkedIn**: www.linkedin.com/in/sriyantha-sadaruwan-72a175250 
+- 🔗 **LinkedIn**: www.linkedin.com/in/sriyantha-sadaruwan-72a175250  
+
+<div align="center">
+    <img src="https://media.giphy.com/media/3oEdv88vgi2v1PGxO8/giphy.gif" alt="Contact Animation" width="600"/>
+</div>
 
 ---
 
-🌟 Thank you for stopping by! Feel free to explore my repositories or reach out to discuss potential collaborations. Let's make data-driven decisions together! 🚀
+🌟 Thank you for stopping by! Feel free to explore my repositories or reach out to discuss potential collaborations. Let's make data-driven decisions together! 🚀  
+
