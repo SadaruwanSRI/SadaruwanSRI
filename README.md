@@ -4,7 +4,7 @@ Hi there! I'm **Sandaruwan**, a **Data Scientist specializing in Financial Mathe
 I enjoy uncovering hidden insights in data and crafting intelligent solutions for the financial industry.  
 
 <div align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDM0Z2ExbnZnczl2dm96NDF3MXRkNndqanVwZTlzNWtpYjU5N2hkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GrRgIa839nAwRa2qKW/giphy.gif" alt="Welcome Animation" width="700"/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVvbWxhc203ZGRod2RidXdtMHRncTRoNXlodzZiZ2Z1aHBmeGE2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7c8QeB0VMddFOuu4iR/giphy.gif" alt="Welcome Animation" width="250"/>
 </div>
 
 ---
