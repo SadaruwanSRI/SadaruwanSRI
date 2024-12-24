@@ -54,8 +54,7 @@ Hello! I'm **Sandaruwan**, a passionate Data Scientist specializing in **Financi
 - Designed and led multiple actuarial and data science talks.
 
 ## 📫 Contact Me
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile URL]
-- **GitHub**: [Your GitHub Profile URL]
+- **Email**: sriyantha1234567890@gmail.com
+- **LinkedIn**: www.linkedin.com/in/sriyantha-sadaruwan-72a175250
 
 Thank you for visiting my portfolio! Feel free to explore my repositories or connect with me for collaboration and discussions. Let's make data speak! 🚀
