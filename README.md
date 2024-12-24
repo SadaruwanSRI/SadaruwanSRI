@@ -4,7 +4,7 @@ Hi there! I'm **Sandaruwan**, a **Data Scientist specializing in Financial Mathe
 I enjoy uncovering hidden insights in data and crafting intelligent solutions for the financial industry.  
 
 <div align="right">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVvbWxhc203ZGRod2RidXdtMHRncTRoNXlodzZiZ2Z1aHBmeGE2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7c8QeB0VMddFOuu4iR/giphy.gif" alt="Welcome Animation" width="500"/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVvbWxhc203ZGRod2RidXdtMHRncTRoNXlodzZiZ2Z1aHBmeGE2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7c8QeB0VMddFOuu4iR/giphy.gif" alt="Welcome Animation" width="400"/>
 </div>
 
 ---
@@ -14,10 +14,6 @@ I enjoy uncovering hidden insights in data and crafting intelligent solutions fo
 - 🌐 **Focus**: Time series analysis, financial forecasting, and data-driven problem-solving.  
 - 🤖 **Research**: Developing **AI-powered financial systems** using CNN-LSTM models.  
 - 🏆 **Leadership**: Vice President of Marketing for my university society, driving impactful projects and campaigns.  
-
-<div align="center">
-    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Data Science Animation" width="500"/>
-</div>
 
 ---
 
@@ -32,10 +28,6 @@ I enjoy uncovering hidden insights in data and crafting intelligent solutions fo
 - **Libraries & Tools**: pandas, NumPy, SciPy, TensorFlow, Matplotlib, Seaborn  
 - **Platforms**: DataCamp, Jupyter, Excel  
 
-<div align="center">
-    <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" alt="Skills Animation" width="600"/>
-</div>
-
 ---
 
 ## 📂 **Projects**
@@ -44,18 +36,11 @@ I enjoy uncovering hidden insights in data and crafting intelligent solutions fo
 - **Tools**: Python, Yahoo Finance API, SciPy.  
 - **Highlight**: Daily closing price forecasting for strategic financial planning.  
 
-<div align="center">
-    <img src="https://media.giphy.com/media/j1J09gkF3L8Zy/giphy.gif" alt="Finance Animation" width="600"/>
-</div>
 
 ### 🔍 **Financial Pattern Recognition System**  
 - **Goal**: Identify trends and predict market movements using CNN-LSTM.  
 - **Tech Stack**: TensorFlow, Python.  
 - **Highlight**: Integrated high, low, open, and close prices for robust predictions.  
-
-<div align="center">
-    <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Pattern Recognition Animation" width="500"/>
-</div>
 
 ### 🤖 **Forex Trading Software**  
 - **Modules**:  
@@ -64,9 +49,6 @@ I enjoy uncovering hidden insights in data and crafting intelligent solutions fo
   - 📈 **Action Predictor**: Intelligent buy/sell recommendations.  
   - 🏦 **Trader Module**: Simulations and real-world trades.  
 
-<div align="center">
-    <img src="https://media.giphy.com/media/l41YlMxCMpZS4kfdm/giphy.gif" alt="Trading Animation" width="600"/>
-</div>
 
 ---
 
@@ -75,9 +57,6 @@ I enjoy uncovering hidden insights in data and crafting intelligent solutions fo
 - ✅ **Intermediate Python** – DataCamp  
 - ✅ **Data Manipulation with pandas** – DataCamp  
 
-<div align="center">
-    <img src="https://media.giphy.com/media/1zlbLpeFIOzKKmNaP2/giphy.gif" alt="Certificate Animation" width="400"/>
-</div>
 
 ---
 
@@ -85,9 +64,6 @@ I enjoy uncovering hidden insights in data and crafting intelligent solutions fo
 - **LinkedIn Post**: Sharing SciPy-based statistical insights.  
 - **Talks & Events**: Conducted sessions like *Empowering the Future with Actuarial Science*.  
 
-<div align="center">
-    <img src="https://media.giphy.com/media/3oEjHGrVGrqgFFknfO/giphy.gif" alt="Highlight Animation" width="500"/>
-</div>
 
 ---
 
@@ -96,7 +72,7 @@ I enjoy uncovering hidden insights in data and crafting intelligent solutions fo
 - 🔗 **LinkedIn**: www.linkedin.com/in/sriyantha-sadaruwan-72a175250  
 
 <div align="center">
-    <img src="https://media.giphy.com/media/3oEdv88vgi2v1PGxO8/giphy.gif" alt="Contact Animation" width="600"/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3M2aGllNjFhdW10ZjFueGlkYnI5cjBieDgxemV0OWw4NXJsZ2k4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T9JtEyoJ43gY4wLOqW/giphy.gif" alt="Contact Animation" width="600"/>
 </div>
 
 ---
