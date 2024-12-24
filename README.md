@@ -1,60 +1,73 @@
-# Welcome to My Data Science Portfolio 🚀
+# 🌟 Welcome to My Data Science Portfolio  
 
-Hello! I'm **Sandaruwan**, a passionate Data Scientist specializing in **Financial Mathematics** and **Industrial Statistics**. My expertise lies in using advanced analytical techniques and statistical models to uncover patterns and make data-driven predictions in the financial sector.
+Hi there! I'm **Sandaruwan**, a **Data Scientist specializing in Financial Mathematics and Industrial Statistics**. I love turning complex data into actionable insights and building innovative solutions for the financial world.  
 
-## 👨‍💻 About Me
+---
 
-- 🎓 Pursuing a special degree in Financial Mathematics and Industrial Statistics at the **University of Ruhuna, Sri Lanka**.
-- 🧮 Skilled in **time series analysis**, **derivatives**, **risk management**, and **financial forecasting**.
-- 🔬 Focused on **data-driven solutions** for financial market challenges using tools like **Python, R, and LaTeX**.
-- 💡 Currently working on a **Financial Data Pattern Recognition and Forecasting System** using **Deep Learning (CNN-LSTM)**.
-- 🧑‍💼 Vice President of Marketing for my university society, engaging in innovative projects and campaigns.
+## 🧑‍💻 **About Me**
+- 🎓 **Degree**: Specializing in Financial Mathematics and Industrial Statistics at the **University of Ruhuna**.  
+- 🌐 **Focus**: Time series analysis, financial forecasting, and data-driven problem-solving.  
+- 🤖 **Research**: Developing **AI-powered financial systems** using CNN-LSTM models.  
+- 🏆 **Leadership**: Vice President of Marketing for my university society, driving impactful projects and campaigns.  
 
-## 🛠️ Skills
+---
 
-### Programming Languages & Tools:
-- **Python**: pandas, NumPy, SciPy, TensorFlow, Matplotlib, Seaborn
-- **R Programming**: Advanced statistical analysis and visualization
-- **LaTeX**: Academic report writing
-- **Hadoop**: Basics of Big Data processing
-- **Excel**: Advanced formulas, pivot tables, and data analysis
+## 🔧 **Skills & Expertise**
+### 🖥️ **Technical Skills**  
+- **Languages**:  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+  ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)  
+  ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)  
+  ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=white)  
 
-### Specializations:
-- Financial time series analysis using ARIMA models
-- Data preprocessing, feature engineering, and visualization
-- Machine learning and deep learning for predictive analytics
-- Financial risk modeling and derivatives pricing
+- **Libraries & Tools**: pandas, NumPy, SciPy, TensorFlow, Matplotlib, Seaborn  
+- **Platforms**: DataCamp, Jupyter, Excel  
 
-## 📂 Projects
+### 🎯 **Core Competencies**  
+- **Financial Time Series Analysis**: ARIMA, forecasting trends 📊  
+- **Machine Learning & Deep Learning**: Predictive modeling, CNN-LSTM 🤖  
+- **Data Visualization**: Turning numbers into stories 🌈  
+- **Big Data Processing**: Basics of Hadoop 🚀  
 
-### 1. **Forex Majors Price Analysis and Forecasting**  
-- **Objective**: Analyze and forecast major currency pairs using ARIMA.  
-- **Tech Stack**: Python, Yahoo Finance, SciPy  
-- **Highlights**: Time series forecasting with daily closing prices.  
+---
 
-### 2. **Financial Data Pattern Recognition System**  
-- **Objective**: Develop a system to identify patterns and forecast market trends.  
-- **Tech Stack**: TensorFlow, CNN-LSTM models, Python  
-- **Highlights**: Integration of high, low, open, and close prices for advanced prediction.  
+## 📂 **Projects**
+### 💹 **Forex Majors Price Analysis**  
+- **Goal**: Analyzing and forecasting major currency pairs with ARIMA.  
+- **Tools**: Python, Yahoo Finance API, SciPy.  
+- **Highlight**: Daily closing price forecasting for strategic financial planning.  
 
-### 3. **Forex Trading Software**  
-- **Modules**: 
-  - System Interface: Trader-friendly UI for recommendations and execution.
-  - Pre-processing: Data cleaning and feature extraction pipeline.
-  - Action Predictor: Buy/sell action predictions.
-  - Trader & Optimizer: Simulations and strategy optimization.  
+### 🔍 **Financial Pattern Recognition System**  
+- **Goal**: Identify trends and predict market movements using CNN-LSTM.  
+- **Tech Stack**: TensorFlow, Python.  
+- **Highlight**: Integrated high, low, open, and close prices for robust predictions.  
 
-## 🎯 Certifications
-- **Data Scientist Associate in Python** – DataCamp  
-- **Intermediate Python** – DataCamp  
-- **Data Manipulation with pandas** – DataCamp  
+### 🤖 **Forex Trading Software**  
+- **Modules**:  
+  - 🖥️ **System Interface**: Easy-to-use UI for traders.  
+  - ⚙️ **Pre-processing**: Clean and transform data efficiently.  
+  - 📈 **Action Predictor**: Intelligent buy/sell recommendations.  
+  - 🏦 **Trader Module**: Simulations and real-world trades.  
 
-## 🖼️ Featured Work
-- Showcasing statistical expertise on **LinkedIn** using SciPy.
-- Designed and led multiple actuarial and data science talks.
+---
 
-## 📫 Contact Me
-- **Email**: sriyantha1234567890@gmail.com
-- **LinkedIn**: www.linkedin.com/in/sriyantha-sadaruwan-72a175250
+## 🏅 **Certifications**
+- ✅ **Data Scientist Associate in Python** – DataCamp  
+- ✅ **Intermediate Python** – DataCamp  
+- ✅ **Data Manipulation with pandas** – DataCamp  
 
-Thank you for visiting my portfolio! Feel free to explore my repositories or connect with me for collaboration and discussions. Let's make data speak! 🚀
+---
+
+## 🌟 **Featured Highlights**
+- **LinkedIn Post**: Sharing SciPy-based statistical insights.  
+- **Talks & Events**: Conducted sessions like *Empowering the Future with Actuarial Science*.  
+
+---
+
+## 📬 **Let's Connect!**
+- 📧 **Email**: sriyantha1234567890@gmail.com
+- 🔗 **LinkedIn**: www.linkedin.com/in/sriyantha-sadaruwan-72a175250 
+
+---
+
+🌟 Thank you for stopping by! Feel free to explore my repositories or reach out to discuss potential collaborations. Let's make data-driven decisions together! 🚀
